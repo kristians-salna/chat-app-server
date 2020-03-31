@@ -1,0 +1,169 @@
+{"message":"Server booted.","level":"info","timestamp":"2020-03-31 08:59:32"}
+{"message":"New zaHjpetoLrZe9xZxAAAA connection.","level":"info","timestamp":"2020-03-31 09:07:50"}
+{"message":"New 12z6w4uZX3aoe-yDAAAB connection.","level":"info","timestamp":"2020-03-31 09:07:53"}
+{"message":"send.new.user.connection - test","level":"info","timestamp":"2020-03-31 09:08:00"}
+{"message":"send.new.user.connection - test test","level":"info","timestamp":"2020-03-31 09:08:05"}
+{"message":"send.new.user.message {\"name\":\"test\",\"message\":\"test\"}","level":"info","timestamp":"2020-03-31 09:08:10"}
+{"message":"send.new.user.message {\"name\":\"test test\",\"message\":\"test\"}","level":"info","timestamp":"2020-03-31 09:08:13"}
+{"message":"12z6w4uZX3aoe-yDAAAB - disconnected.","level":"info","timestamp":"2020-03-31 09:08:17"}
+{"message":"New giWuCHGvt84lmk9uAAAC connection.","level":"info","timestamp":"2020-03-31 09:08:17"}
+{"message":"send.new.user.message {\"name\":\"test\",\"message\":\":)\"}","level":"info","timestamp":"2020-03-31 09:08:20"}
+{"message":"test have been disconnected due to inactivity.","level":"info","timestamp":"2020-03-31 09:11:20"}
+{"message":"zaHjpetoLrZe9xZxAAAA - disconnected.","level":"info","timestamp":"2020-03-31 09:11:20"}
+{"message":"New IwPBeUgRGDn0Zqh4AAAD connection.","level":"info","timestamp":"2020-03-31 09:11:20"}
+{"message":"New lhhA4OCzlLm3BpPsAAAE connection.","level":"info","timestamp":"2020-03-31 09:11:54"}
+{"message":"New Mo6M0NRgptdNhtCnAAAF connection.","level":"info","timestamp":"2020-03-31 09:11:54"}
+{"message":"Server unboot.","level":"info","timestamp":"2020-03-31 09:12:00"}
+{"message":"Server booted.","level":"info","timestamp":"2020-03-31 09:12:34"}
+{"message":"New U9T4dKwI5oH3Z-AlAAAA connection.","level":"info","timestamp":"2020-03-31 09:12:35"}
+{"message":"New wv1BDNabXKoeQ3wZAAAB connection.","level":"info","timestamp":"2020-03-31 09:12:35"}
+{"message":"New 7VQv-x6yfyw93jPFAAAC connection.","level":"info","timestamp":"2020-03-31 09:12:39"}
+{"message":"New UB2bvUeDK9lRF6L_AAAD connection.","level":"info","timestamp":"2020-03-31 09:12:39"}
+{"message":"New o3Lv76yCNY3d33isAAAE connection.","level":"info","timestamp":"2020-03-31 09:12:39"}
+{"message":"send.new.user.connection - asd","level":"info","timestamp":"2020-03-31 09:12:44"}
+{"message":"send.new.user.message {\"name\":\"asd\",\"message\":\"d\"}","level":"info","timestamp":"2020-03-31 09:12:46"}
+{"message":"send.new.user.message {\"name\":\"asd\",\"message\":\"d\"}","level":"info","timestamp":"2020-03-31 09:12:54"}
+{"message":"Server unboot.","level":"info","timestamp":"2020-03-31 09:13:54"}
+{"message":"Server booted.","level":"info","timestamp":"2020-03-31 09:14:27"}
+{"message":"New tPBlXOJW3b-TR1XWAAAA connection.","level":"info","timestamp":"2020-03-31 09:14:27"}
+{"message":"New p7IQ-oU1nI4nFEq9AAAB connection.","level":"info","timestamp":"2020-03-31 09:14:30"}
+{"message":"New Kzc82Ryso6z0BMJYAAAC connection.","level":"info","timestamp":"2020-03-31 09:14:30"}
+{"message":"New 0vaNh3dK8zhhR9JcAAAD connection.","level":"info","timestamp":"2020-03-31 09:14:50"}
+{"message":"send.new.user.connection - qwe","level":"info","timestamp":"2020-03-31 09:14:52"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"d\"}","level":"info","timestamp":"2020-03-31 09:14:55"}
+{"message":"qwe have been disconnected due to inactivity.","level":"info","timestamp":"2020-03-31 09:17:55"}
+{"message":"0vaNh3dK8zhhR9JcAAAD - disconnected.","level":"info","timestamp":"2020-03-31 09:17:55"}
+{"message":"New oup-4_DwDulroy5_AAAE connection.","level":"info","timestamp":"2020-03-31 09:17:55"}
+{"message":"Server unboot.","level":"info","timestamp":"2020-03-31 09:18:12"}
+{"message":"Server booted.","level":"info","timestamp":"2020-03-31 09:18:39"}
+{"message":"New sBE4mLGjpZjgMuiSAAAA connection.","level":"info","timestamp":"2020-03-31 09:18:42"}
+{"message":"New zm0QX5Tv_uPr8BYAAAAB connection.","level":"info","timestamp":"2020-03-31 09:18:43"}
+{"message":"Server unboot.","level":"info","timestamp":"2020-03-31 09:19:03"}
+{"message":"Server booted.","level":"info","timestamp":"2020-03-31 09:19:27"}
+{"message":"New JsaiJHXwCoMtYXnoAAAA connection.","level":"info","timestamp":"2020-03-31 09:19:27"}
+{"message":"New dEgNakHICQ-0ttEFAAAB connection.","level":"info","timestamp":"2020-03-31 09:19:27"}
+{"message":"New 7PchjClEVAUHwEdFAAAC connection.","level":"info","timestamp":"2020-03-31 09:20:10"}
+{"message":"send.new.user.connection - asd","level":"info","timestamp":"2020-03-31 09:20:11"}
+{"message":"send.new.user.message {\"name\":\"asd\",\"message\":\"d\"}","level":"info","timestamp":"2020-03-31 09:20:13"}
+{"message":"Server unboot.","level":"info","timestamp":"2020-03-31 09:20:51"}
+{"message":"Server booted.","level":"info","timestamp":"2020-03-31 09:21:17"}
+{"message":"New Ioo48w1JWTBM6hs8AAAA connection.","level":"info","timestamp":"2020-03-31 09:21:17"}
+{"message":"send.new.user.connection - as","level":"info","timestamp":"2020-03-31 09:21:17"}
+{"message":"New A-5ijdKW-Pc8NHhGAAAB connection.","level":"info","timestamp":"2020-03-31 09:21:19"}
+{"message":"send.new.user.message {\"name\":\"as\",\"message\":\"a\"}","level":"info","timestamp":"2020-03-31 09:21:19"}
+{"message":"Ioo48w1JWTBM6hs8AAAA - disconnected.","level":"info","timestamp":"2020-03-31 09:21:42"}
+{"message":"New YwIbSOTMOSI5878cAAAC connection.","level":"info","timestamp":"2020-03-31 09:21:42"}
+{"message":"New ffYA01uGyqvOBbfjAAAD connection.","level":"info","timestamp":"2020-03-31 09:21:43"}
+{"message":"New FmDij6zfmoMnn23eAAAE connection.","level":"info","timestamp":"2020-03-31 09:21:43"}
+{"message":"send.new.user.connection - qwe","level":"info","timestamp":"2020-03-31 09:21:44"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"d\"}","level":"info","timestamp":"2020-03-31 09:21:46"}
+{"message":"ffYA01uGyqvOBbfjAAAD - disconnected.","level":"info","timestamp":"2020-03-31 09:21:56"}
+{"message":"New 0b_Dg_JRLNOERpAfAAAF connection.","level":"info","timestamp":"2020-03-31 09:21:56"}
+{"message":"New PS91bG8p8S5BHRL0AAAG connection.","level":"info","timestamp":"2020-03-31 09:21:56"}
+{"message":"New DE7fhPYNXQVyZFmAAAAH connection.","level":"info","timestamp":"2020-03-31 09:21:56"}
+{"message":"send.new.user.connection - e","level":"info","timestamp":"2020-03-31 09:21:57"}
+{"message":"send.new.user.message {\"name\":\"e\",\"message\":\"e\"}","level":"info","timestamp":"2020-03-31 09:21:59"}
+{"message":"PS91bG8p8S5BHRL0AAAG - disconnected.","level":"info","timestamp":"2020-03-31 09:22:15"}
+{"message":"New gw673wRoFoR0QTdeAAAI connection.","level":"info","timestamp":"2020-03-31 09:22:15"}
+{"message":"New iQZ4w168fmv_yU98AAAJ connection.","level":"info","timestamp":"2020-03-31 09:22:16"}
+{"message":"New LmQzahpN5i0TrUUqAAAK connection.","level":"info","timestamp":"2020-03-31 09:22:16"}
+{"message":"send.new.user.connection - e","level":"info","timestamp":"2020-03-31 09:22:17"}
+{"message":"send.new.user.message {\"name\":\"e\",\"message\":\"e\"}","level":"info","timestamp":"2020-03-31 09:22:18"}
+{"message":"iQZ4w168fmv_yU98AAAJ - disconnected.","level":"info","timestamp":"2020-03-31 09:24:42"}
+{"message":"New 154LNEnm4lM7PtNlAAAL connection.","level":"info","timestamp":"2020-03-31 09:24:42"}
+{"message":"New Gx1c2upiV_KL7QI_AAAM connection.","level":"info","timestamp":"2020-03-31 09:24:43"}
+{"message":"New s5NY4nlH0GsaRqdgAAAN connection.","level":"info","timestamp":"2020-03-31 09:24:43"}
+{"message":"send.new.user.connection - qwd","level":"info","timestamp":"2020-03-31 09:24:44"}
+{"message":"send.new.user.message {\"name\":\"qwd\",\"message\":\"cau\"}","level":"info","timestamp":"2020-03-31 09:24:46"}
+{"message":"Gx1c2upiV_KL7QI_AAAM - disconnected.","level":"info","timestamp":"2020-03-31 09:25:42"}
+{"message":"New d2MaJ-DEoOPxRu_9AAAO connection.","level":"info","timestamp":"2020-03-31 09:25:42"}
+{"message":"New StiHl9HnHl84j_FrAAAP connection.","level":"info","timestamp":"2020-03-31 09:25:43"}
+{"message":"New CBVjEaxW3w1dvr9iAAAQ connection.","level":"info","timestamp":"2020-03-31 09:25:43"}
+{"message":"send.new.user.connection - qwe","level":"info","timestamp":"2020-03-31 09:25:46"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"d\"}","level":"info","timestamp":"2020-03-31 09:25:48"}
+{"message":"StiHl9HnHl84j_FrAAAP - disconnected.","level":"info","timestamp":"2020-03-31 09:26:20"}
+{"message":"New oLMExYq91SFA2xalAAAR connection.","level":"info","timestamp":"2020-03-31 09:26:20"}
+{"message":"New v35xFCfHaPs4Jn18AAAS connection.","level":"info","timestamp":"2020-03-31 09:26:21"}
+{"message":"New jnqxOTKRIzl7EYEuAAAT connection.","level":"info","timestamp":"2020-03-31 09:26:21"}
+{"message":"send.new.user.connection - q","level":"info","timestamp":"2020-03-31 09:26:25"}
+{"message":"send.new.user.message {\"name\":\"q\",\"message\":\"d\"}","level":"info","timestamp":"2020-03-31 09:26:34"}
+{"message":"v35xFCfHaPs4Jn18AAAS - disconnected.","level":"info","timestamp":"2020-03-31 09:27:56"}
+{"message":"New JxEDR_1fBaCwHs4EAAAU connection.","level":"info","timestamp":"2020-03-31 09:27:56"}
+{"message":"New 0xRf1nvlRv8kBE20AAAV connection.","level":"info","timestamp":"2020-03-31 09:27:57"}
+{"message":"New VRkZonEliNHyGmHfAAAW connection.","level":"info","timestamp":"2020-03-31 09:27:57"}
+{"message":"New y-yJ2be6n6l5BTH5AAAX connection.","level":"info","timestamp":"2020-03-31 09:28:18"}
+{"message":"New bx_j_yuBlPCtmXCoAAAY connection.","level":"info","timestamp":"2020-03-31 09:28:18"}
+{"message":"send.new.user.connection - qe","level":"info","timestamp":"2020-03-31 09:28:19"}
+{"message":"send.new.user.message {\"name\":\"qe\",\"message\":\"q\"}","level":"info","timestamp":"2020-03-31 09:28:21"}
+{"message":"y-yJ2be6n6l5BTH5AAAX - disconnected.","level":"info","timestamp":"2020-03-31 09:28:46"}
+{"message":"New wbeS5LGohq35eAE4AAAZ connection.","level":"info","timestamp":"2020-03-31 09:28:46"}
+{"message":"New zeD8dBobJYmBme_bAAAa connection.","level":"info","timestamp":"2020-03-31 09:28:47"}
+{"message":"New IEzS860T1VCRMvgXAAAb connection.","level":"info","timestamp":"2020-03-31 09:28:47"}
+{"message":"send.new.user.connection - aawd","level":"info","timestamp":"2020-03-31 09:28:50"}
+{"message":"send.new.user.message {\"name\":\"aawd\",\"message\":\"awd\"}","level":"info","timestamp":"2020-03-31 09:28:51"}
+{"message":"zeD8dBobJYmBme_bAAAa - disconnected.","level":"info","timestamp":"2020-03-31 09:30:13"}
+{"message":"New _LBjbDOdkrzpn9DCAAAc connection.","level":"info","timestamp":"2020-03-31 09:30:13"}
+{"message":"New Yon9pXLvQ9ZWzu6EAAAd connection.","level":"info","timestamp":"2020-03-31 09:30:14"}
+{"message":"New pNx4ZFonrdQp6pM0AAAe connection.","level":"info","timestamp":"2020-03-31 09:30:14"}
+{"message":"Server unboot.","level":"info","timestamp":"2020-03-31 09:30:19"}
+{"message":"Server booted.","level":"info","timestamp":"2020-03-31 09:30:54"}
+{"message":"New 8MEwGrzxgp88EHpiAAAA connection.","level":"info","timestamp":"2020-03-31 09:30:55"}
+{"message":"send.new.user.connection - qwe","level":"info","timestamp":"2020-03-31 09:30:55"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"e\"}","level":"info","timestamp":"2020-03-31 09:30:57"}
+{"message":"New K1_Q6U0KFd4fb-X8AAAB connection.","level":"info","timestamp":"2020-03-31 09:31:01"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"d\"}","level":"info","timestamp":"2020-03-31 09:32:22"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"q\"}","level":"info","timestamp":"2020-03-31 09:32:24"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"b\"}","level":"info","timestamp":"2020-03-31 09:32:30"}
+{"message":"8MEwGrzxgp88EHpiAAAA - disconnected.","level":"info","timestamp":"2020-03-31 09:32:35"}
+{"message":"New juvorMiQTRQF0e17AAAC connection.","level":"info","timestamp":"2020-03-31 09:32:35"}
+{"message":"New RQFv0kPptVzPmWBhAAAD connection.","level":"info","timestamp":"2020-03-31 09:32:35"}
+{"message":"send.new.user.connection - d","level":"info","timestamp":"2020-03-31 09:32:36"}
+{"message":"send.new.user.message {\"name\":\"d\",\"message\":\"a\"}","level":"info","timestamp":"2020-03-31 09:32:39"}
+{"message":"RQFv0kPptVzPmWBhAAAD - disconnected.","level":"info","timestamp":"2020-03-31 09:32:58"}
+{"message":"New bP8DTBbddgUAGnAmAAAE connection.","level":"info","timestamp":"2020-03-31 09:32:58"}
+{"message":"New slPVuukdXx6sLEYXAAAF connection.","level":"info","timestamp":"2020-03-31 09:32:59"}
+{"message":"New lWc-ZDLehMOZv397AAAG connection.","level":"info","timestamp":"2020-03-31 09:32:59"}
+{"message":"send.new.user.connection - e","level":"info","timestamp":"2020-03-31 09:33:00"}
+{"message":"send.new.user.message {\"name\":\"e\",\"message\":\"w\"}","level":"info","timestamp":"2020-03-31 09:33:01"}
+{"message":"slPVuukdXx6sLEYXAAAF - disconnected.","level":"info","timestamp":"2020-03-31 09:33:17"}
+{"message":"New uwOu24OQJkN61ohoAAAH connection.","level":"info","timestamp":"2020-03-31 09:33:17"}
+{"message":"New 7Ht3ZcjygwPPb1CiAAAI connection.","level":"info","timestamp":"2020-03-31 09:33:17"}
+{"message":"New Rv48k9K9Mwk6fgK0AAAJ connection.","level":"info","timestamp":"2020-03-31 09:33:18"}
+{"message":"send.new.user.connection - qwe","level":"info","timestamp":"2020-03-31 09:33:21"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"d\"}","level":"info","timestamp":"2020-03-31 09:33:22"}
+{"message":"7Ht3ZcjygwPPb1CiAAAI - disconnected.","level":"info","timestamp":"2020-03-31 09:33:40"}
+{"message":"New YXJsSdkgH9XrP3yIAAAK connection.","level":"info","timestamp":"2020-03-31 09:33:40"}
+{"message":"New iKKWetJZjdhu6STAAAAL connection.","level":"info","timestamp":"2020-03-31 09:33:40"}
+{"message":"send.new.user.connection - qwe","level":"info","timestamp":"2020-03-31 09:33:42"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"e\"}","level":"info","timestamp":"2020-03-31 09:33:43"}
+{"message":"YXJsSdkgH9XrP3yIAAAK - disconnected.","level":"info","timestamp":"2020-03-31 09:33:56"}
+{"message":"New 0s6EuTa04jKx3zmHAAAM connection.","level":"info","timestamp":"2020-03-31 09:33:56"}
+{"message":"New mru4i_plfBfiz7IKAAAN connection.","level":"info","timestamp":"2020-03-31 09:33:57"}
+{"message":"New zd9gQEeE5EAgngOcAAAO connection.","level":"info","timestamp":"2020-03-31 09:33:57"}
+{"message":"send.new.user.connection - qwe","level":"info","timestamp":"2020-03-31 09:33:57"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"e\"}","level":"info","timestamp":"2020-03-31 09:33:58"}
+{"message":"mru4i_plfBfiz7IKAAAN - disconnected.","level":"info","timestamp":"2020-03-31 09:34:10"}
+{"message":"New pY9po-hKLnna0D6YAAAP connection.","level":"info","timestamp":"2020-03-31 09:34:10"}
+{"message":"New rROzOSQmvfZj6BvuAAAQ connection.","level":"info","timestamp":"2020-03-31 09:34:11"}
+{"message":"New 0ZTgSE1qM_W43VAoAAAR connection.","level":"info","timestamp":"2020-03-31 09:34:11"}
+{"message":"send.new.user.connection - qwe","level":"info","timestamp":"2020-03-31 09:34:12"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"e\"}","level":"info","timestamp":"2020-03-31 09:34:13"}
+{"message":"rROzOSQmvfZj6BvuAAAQ - disconnected.","level":"info","timestamp":"2020-03-31 09:34:15"}
+{"message":"New GK24IMOqF0fT0U5-AAAS connection.","level":"info","timestamp":"2020-03-31 09:34:16"}
+{"message":"New TekPrfbWM5afiUjoAAAT connection.","level":"info","timestamp":"2020-03-31 09:34:22"}
+{"message":"New V_LaprzCalN1DO8eAAAU connection.","level":"info","timestamp":"2020-03-31 09:34:22"}
+{"message":"send.new.user.connection - e","level":"info","timestamp":"2020-03-31 09:34:23"}
+{"message":"send.new.user.message {\"name\":\"e\",\"message\":\"qwe\"}","level":"info","timestamp":"2020-03-31 09:34:25"}
+{"message":"TekPrfbWM5afiUjoAAAT - disconnected.","level":"info","timestamp":"2020-03-31 09:34:38"}
+{"message":"New 4r846JtfB2LlBaw2AAAV connection.","level":"info","timestamp":"2020-03-31 09:34:38"}
+{"message":"New vTt6VU6PMir2G-lLAAAW connection.","level":"info","timestamp":"2020-03-31 09:34:38"}
+{"message":"send.new.user.connection - qwe","level":"info","timestamp":"2020-03-31 09:34:39"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"qwe\"}","level":"info","timestamp":"2020-03-31 09:34:41"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"q\"}","level":"info","timestamp":"2020-03-31 09:35:03"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"w\"}","level":"info","timestamp":"2020-03-31 09:35:03"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"e\"}","level":"info","timestamp":"2020-03-31 09:35:03"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"456\"}","level":"info","timestamp":"2020-03-31 09:35:18"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"12\"}","level":"info","timestamp":"2020-03-31 09:35:19"}
+{"message":"send.new.user.message {\"name\":\"qwe\",\"message\":\"123132\"}","level":"info","timestamp":"2020-03-31 09:35:21"}
+{"message":"4r846JtfB2LlBaw2AAAV - disconnected.","level":"info","timestamp":"2020-03-31 09:35:41"}
+{"message":"Server unboot.","level":"info","timestamp":"2020-03-31 09:38:09"}
